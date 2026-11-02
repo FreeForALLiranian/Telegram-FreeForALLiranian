@@ -7,16 +7,17 @@ trojan://MiTiVPN@146.75.57.120:443?type=ws&security=tls&path=%2F---%40MiTiVPN---
 trojan://MiTiVPN@167.82.64.120:443?type=ws&security=tls&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSus---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&host=mitivpn--mitivpn-mitivpn.ac.ir&sni=cdn.akamai.steamstatic.com&alpn=http%2F1.1&fp=chrome&pinSHA256=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e#%40MiTiVPN%20%7C%20%F0%9D%91%AD%F0%9D%91%A8%F0%9D%91%BA%F0%9D%91%BB%20%E2%9A%AB
 
 ***************
+###############
 ===============
 ###############
 ***************
 
-vless://3d9d91c0-0a90-471a-a518-a0ff66a1970a@wwww.qarvian.ir:443?encryption=none&type=ws&security=tls&host=copy_az_channel_NUFiLTER_17i.global.ssl.fastly.net.&sni=cdn.akamai.steamstatic.com&pinSHA256=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e#%40NUFiLTER%F0%9F%87%BA%F0%9F%87%B8%2897%29
+vless://afed9510-8648-49c6-9fbd-c2d4d8bdd417@wwww.qarvian.ir:443?encryption=none&type=ws&security=tls&host=copy_az_channel_NUFiLTER_17i.global.ssl.fastly.net.&sni=cdn.akamai.steamstatic.com&pinSHA256=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e#%40NUFiLTER%F0%9F%87%BA%F0%9F%87%B8%28102%29
 
-vless://3d9d91c0-0a90-471a-a518-a0ff66a1970a@199.232.78.160:443?encryption=none&type=ws&security=tls&host=copy_az_channel_NUFiLTER_10i.global.ssl.fastly.net.&sni=community.fastly.steamstatic.com&pinSHA256=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e#%40NUFiLTER%F0%9F%87%BA%F0%9F%87%B8%2898%29
+vless://afed9510-8648-49c6-9fbd-c2d4d8bdd417@199.232.78.160:443?encryption=none&type=ws&security=tls&host=copy_az_channel_NUFiLTER_10i.global.ssl.fastly.net.&sni=community.fastly.steamstatic.com&pinSHA256=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e#%40NUFiLTER%F0%9F%87%BA%F0%9F%87%B8%28103%29
 
-vless://3d9d91c0-0a90-471a-a518-a0ff66a1970a@wwww.qarvian.ir:443?encryption=none&type=ws&security=tls&host=copy_az_channel_NUFiLTER_7i.global.ssl.fastly.net.&sni=cdn.akamai.steamstatic.com&pinSHA256=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e#%40NUFiLTER%F0%9F%87%BA%F0%9F%87%B8%2899%29
+vless://afed9510-8648-49c6-9fbd-c2d4d8bdd417@wwww.qarvian.ir:443?encryption=none&type=ws&security=tls&host=copy_az_channel_NUFiLTER_7i.global.ssl.fastly.net.&sni=cdn.akamai.steamstatic.com&pinSHA256=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e#%40NUFiLTER%F0%9F%87%BA%F0%9F%87%B8%28104%29
 
-vless://3d9d91c0-0a90-471a-a518-a0ff66a1970a@146.75.59.186:443?encryption=none&type=ws&security=tls&host=copy_az_channel_NUFiLTER_6i.global.ssl.fastly.net.&sni=community.fastly.steamstatic.com&pinSHA256=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e#%40NUFiLTER%F0%9F%87%BA%F0%9F%87%B8%28100%29
+vless://afed9510-8648-49c6-9fbd-c2d4d8bdd417@146.75.59.186:443?encryption=none&type=ws&security=tls&host=copy_az_channel_NUFiLTER_6i.global.ssl.fastly.net.&sni=community.fastly.steamstatic.com&pinSHA256=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e#%40NUFiLTER%F0%9F%87%BA%F0%9F%87%B8%28105%29
 
-vless://3d9d91c0-0a90-471a-a518-a0ff66a1970a@199.232.78.159:443?encryption=none&type=ws&security=tls&host=copy_az_channel_NUFiLTER_8i.global.ssl.fastly.net.&sni=cdn.akamai.steamstatic.com&pinSHA256=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e#%40NUFiLTER%F0%9F%87%BA%F0%9F%87%B8%28101%29
+vless://afed9510-8648-49c6-9fbd-c2d4d8bdd417@199.232.78.159:443?encryption=none&type=ws&security=tls&host=copy_az_channel_NUFiLTER_8i.global.ssl.fastly.net.&sni=cdn.akamai.steamstatic.com&pinSHA256=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e#%40NUFiLTER%F0%9F%87%BA%F0%9F%87%B8%28106%29
