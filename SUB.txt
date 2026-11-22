@@ -1,6 +1,8 @@
-trojan://MiTiVPN@199.232.78.160:443?type=ws&security=tls&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%3D26&host=mitivpn.si&sni=steamstatic.com&alpn=http%2F1.1&fp=chrome&pinSHA256=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e#%40MiTiVPN%20%7C%20%F0%9D%91%B5%F0%9D%92%86%F0%9D%91%BB%F0%9D%91%B4%F0%9D%92%86%F0%9D%92%8D%F0%9D%92%8A%20%F0%9F%9F%A2
+trojan://mitivpn@199.232.78.160:443?type=ws&security=tls&path=%2F&host=mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&sni=steamstatic.com&alpn=http%2F1.1&fp=chrome&pinSHA256=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e#%40MiTiVPN%20%7C%20%F0%9D%99%82%F0%9D%99%A4%F0%9D%99%A1%F0%9D%99%99%20%F0%9F%9F%A2
 
-trojan://mitivpn@167.82.64.7:443?type=ws&security=tls&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%3F26&host=mitivpn.talk&sni=steamstatic.com&alpn=http%2F1.1&fp=firefox&pinSHA256=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e#%40MiTiVPN%20%7C%20%F0%9D%91%B5%F0%9D%92%86%F0%9D%91%BB%F0%9D%91%B4%F0%9D%92%86%F0%9D%92%8D%F0%9D%92%8A%20%F0%9F%94%B4
+trojan://mitivpn@167.82.64.7:443?type=ws&security=tls&path=%3F28&host=mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&sni=steamstatic.com&alpn=http%2F1.1&fp=firefox&pinSHA256=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e#%40MiTiVPN%20%7C%20%F0%9D%99%82%F0%9D%99%A4%F0%9D%99%A1%F0%9D%99%99%20%F0%9F%94%B4
+
+hysteria2://fup6jqo76blcumls@13.53.131.128:33971?alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&obfs=salamander&obfs-password=anhzfr8jwm3m1cb0&security=tls&sni=se.accuratenetworkchecker.ir#%F0%9F%87%B8%F0%9F%87%AA%20Fast%20%7C%20%40StableInternet
 
 ***************
 ###############
