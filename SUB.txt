@@ -44,4 +44,6 @@ trojan://GBEqN2BggZfFExc5pTTHUA@ipfast.kingmna.com:443?type=ws&security=tls&path
 ###############
 ***************
 
+vless://314dfcba-1f5a-4b5b-8e52-e51b78aec1b8@static.74.255.109.65.clients.your-server.de:9090?encryption=none&type=tcp&headerType=http&path=%2F%40TurboConfigs---%40TurboConfigs---%40TurboConfigs--%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---%40TurboConfigs--%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---%40TurboConfigs--%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---&host=tgju.org#%40TurboConfigs%F0%9F%87%AB%F0%9F%87%AE%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D9%84%E2%80%8C%D8%B4%DA%A9%D9%86
+
 hysteria2://fup6jqo76blcumls@13.53.131.128:33971?alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&obfs=salamander&obfs-password=anhzfr8jwm3m1cb0&security=tls&sni=se.accuratenetworkchecker.ir#%F0%9F%87%B8%F0%9F%87%AA%20Fast%20%7C%20%40StableInternet
